@@ -25,7 +25,7 @@ Print the Huffman code for the string.
 ## Program:
 ## Develoepd By : K KESAVA SAI
 ## Register Number : 212223230105
-``` Python
+
 # Get the input String
 ```PY
 string = 'K KESAVA SAI'
